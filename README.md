@@ -31,10 +31,10 @@ The aim of this project is to develop a comprehensive credit card weekly dashboa
 
 ## Power BI Visualizations
 ### Slide 1: [Credit Card Transaction Report Dashboard]
-![Transaction Report]("D:\ISHAN\Project\Project - Power BI\credit card power BI project\Credit Card Transaction Report Dashboard.png")
+![Transaction Report](D:\ISHAN\Project\Project - Power BI\credit card power BI project\Credit Card Transaction Report Dashboard.png)
 
 ### Slide 2: [ Credit Card Customer Report Dashboard]
-![Customer Report]("D:\ISHAN\Project\Project - Power BI\credit card power BI project\Credit Card Customer Report Dashboard.png")
+![Customer Report](D:\ISHAN\Project\Project - Power BI\credit card power BI project\Credit Card Customer Report Dashboard.png)
 
 ## Technologies Used
 - **SQL**: For database management and data storage.
