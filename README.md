@@ -31,7 +31,7 @@ The aim of this project is to develop a comprehensive credit card weekly dashboa
 
 ## Power BI Visualizations
 ### Slide 1: [Credit Card Transaction Report Dashboard]
-!(D:\ISHAN\Project\Project - Power BI\credit card power BI project\Credit Card Transaction Report Dashboard.png)
+![Credit Card Transaction Report Dashboard](https://github.com/user-attachments/assets/46951c18-04e4-4ca7-8651-75f652021653)
 
 ### Slide 2: [ Credit Card Customer Report Dashboard]
 !(D:\ISHAN\Project\Project - Power BI\credit card power BI project\Credit Card Customer Report Dashboard.png)
